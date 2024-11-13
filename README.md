@@ -29,7 +29,7 @@ Ensure you have Python and the required libraries installed.
 
 ```bash
 # Clone the repository
-git clone https://github.com/madhavagopi1212/credit-card-fraud-detection.git
+git clone https://github.com/sravani-gst/credit-card-fraud-detection.git
 
 # Change to the project directory
 cd credit-card-fraud-detection
