@@ -1,4 +1,8 @@
-
+# CODTECH IT SOLUTIONS TASK2
+## Internship Domain : Machine Learning
+## Intern ID : CT12DS2496
+## Intern Name : TOGARA GANGA SRAVANI
+## Project Name : CREDITCARD FRAUD DETECTION
 # Credit Card Fraud Detection
 
 This project focuses on detecting fraudulent credit card transactions using machine learning. By analyzing transaction patterns, the model classifies transactions as legitimate or fraudulent, helping to prevent financial losses due to fraud.
